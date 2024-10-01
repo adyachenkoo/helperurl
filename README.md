@@ -1,0 +1,2 @@
+# Hello there! ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+## This repository is a library with a single function - to return the URL of the page. I made this repository to upload to [packagist](packagist.org) and use it in my project

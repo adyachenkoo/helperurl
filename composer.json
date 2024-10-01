@@ -1,0 +1,20 @@
+{
+  "name": "classes/helperurl",
+  "description": "Helper URL",
+  "keywords": ["url"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Artem D.",
+      "email": "adyachenkoo72@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "classes\\helperurl": "src/classes/helperurl/"
+    }
+  }
+}
