@@ -1,6 +1,7 @@
 {
   "name": "adyachenkoo/helperurl",
   "description": "Helper URL",
+  "version": "1.0.0",
   "keywords": ["url"],
   "license": "MIT",
   "authors": [
